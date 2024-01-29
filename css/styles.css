@@ -24,8 +24,14 @@ body{
 
    /*2 class selelctor */
    .sunny{
-     background-color: yellow;
+     background-color: rgb(136, 247, 199);
    }
    .circular{
      border-radius: 100%;
    }
+   .marty{
+    background-color: rgb(136, 247, 199);
+  }
+  .circular{
+    border-radius: 100%;
+  }
